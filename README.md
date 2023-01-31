@@ -5,4 +5,4 @@ The purpose of this analysis was to include filters for the city, state, country
 Results 
 How to use the search is self explanatory. Within the webpage on the left hand side of the page is a "Filter Search"               
  
-![Alt text](filtersearch.png)
+![Alt text](Filtersearch.png)
